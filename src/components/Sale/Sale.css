@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Mitr&family=Pacifico&family=Roboto:wght@300&family=Sriracha&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Mitr&family=Pacifico&family=Roboto:wght@300&family=Sriracha&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lobster&family=Mitr&family=Pacifico&family=Prompt:ital,wght@0,300;0,500;0,600;1,500&family=Roboto:wght@300&family=Sriracha&display=swap");
+
+
+h1{
+    color: black;
+}
+.courseimg{
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+    -webkit-border-radius: 5%;
+    -moz-border-radius: 5%;
+    -ms-border-radius: 5%;
+    -o-border-radius: 5%;
+}
+.bodyimg{
+    width: 150px;
+    height: 150px;
+    border-radius: 5%;
+}
+p{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px 1px;
+}
+.imglogostep4{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px 17px;
+}
+.textuser{
+    font-size: 16px;
+    padding: 14px 0px;
+    color: black;
+    font-family: 'Prompt', sans-serif;
+}
+.textpx{
+    box-sizing: border-box;
+}
+.namecus{
+    font-size: 18px;
+    padding: 12px 11px;
+    font-family: 'Prompt', sans-serif;
+}
+.navebar{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 17px;
+    font-family: 'Roboto', sans-serif;
+}
+.navebar2{
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 17px;
+    font-family: 'Roboto', sans-serif;
+}
+.textcus{
+    font-size: 16px;
+    color: black;        
+    font-family: 'Prompt', sans-serif;
+}
+.textcus2{
+    font-size: 16px;
+    color: black;        
+    font-family: 'Prompt', sans-serif;
+}

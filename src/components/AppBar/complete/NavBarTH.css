@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+
+  /* Style The Dropdown Button */
+  .dropbtn0th {
+    background-color: transparent;
+    color: #424242;
+    padding: 16px;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    font-family: 'Prompt', sans-serif;
+    
+  }
+  
+  .dropbtn1th {
+    background-color: transparent;
+    color: #fafafa;
+    padding: 16px;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    font-family: 'Prompt', sans-serif;
+  }
+  /* The container <div> - needed to position the dropdown content */
+  .dropdownth {
+    position: relative;
+    display: inline-block;
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  /* Dropdown Content (Hidden by Default) */
+  .dropdown-contentth {
+    display: none;
+    position: absolute;
+    background-color: #fafafa;
+    min-width: 200px;
+    z-index: 1;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  .dropdown-content-serviceth {
+    display: none;
+    position: absolute;
+    background-color: #fafafa;
+    min-width: 175px;
+    z-index: 1;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  .dropdown-content-bookth {
+    display: none;
+    position: absolute;
+    background-color: #fafafa;
+    min-width: 425px;
+    z-index: 1;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+  }
+  .dropdown-content-langth {
+    display: none;
+    position: absolute;
+    background-color: #fafafa;
+    min-width: 80px;
+    z-index: 1;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  /* Links inside the dropdown */
+  .dropdown-content-serviceth a {
+    color: #424242;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  .dropdown-content-bookth a {
+    color: #424242;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  .dropdown-content-langth a {
+    color: #424242;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Prompt', sans-serif;
+  }
+  
+  /* Change color of dropdown links on hover */
+  .dropdown-contentth a:hover {background-color: #fafafa}
+  .dropdown-content-serviceth a:hover {background-color: #fafafa}
+  .dropdown-content-bookth a:hover {background-color: #fafafa}
+  .dropdown-content-langth a:hover {background-color: #fafafa}
+  
+  /* Show the dropdown menu on hover */
+  .dropdownth:hover .dropdown-contentth {
+    display: block;
+  }
+  .dropdownth:hover .dropdown-content-serviceth {
+    display: block;
+  }
+  .dropdownth:hover .dropdown-content-bookth {
+    display: block;
+  }
+  .dropdownth:hover .dropdown-content-langth {
+    display: block;
+  }
+  
+  /* Change the background color of the dropdown button when the dropdown content is shown */
+  .dropdownth:hover .dropbtn1th {
+    color: #424242;
+    background-color: #fafafa;
+  }
+  
+  .dropdownth:hover .dropbtn0th {
+    color: #424242;
+    background-color: #fafafa;
+  }
